@@ -1,1 +1,1 @@
-
+console.error("SyntaxError: /Users/benjaminhoward/Desktop/Github Projects/Iron Yard/7_week/space_invader/js/app-browserify.js: Unexpected token (117:1) while parsing file: /Users/benjaminhoward/Desktop/Github Projects/Iron Yard/7_week/space_invader/js/app-browserify.js");
